@@ -1,0 +1,24 @@
+{
+"type":"AdaptiveCard",
+"body": [
+ {
+ "type": "TextBlock",
+"text": "LGPD-Recebemos uma nova solicitação! -> Nº: @{triggerOutputs()?['body/resourceData/responseId']}",
+ "spacing": "Medium",
+ "size": "Large",
+"weight": "Bolder"
+},
+ {
+"type": "ActionSet",
+"actions": [
+ {
+ "type": "Action.OpenUrl",
+ "title": "View response",
+ "url": "https://forms.office.com/"
+ }
+ ]
+ }
+ ],
+  "version": "1.2",
+ "$schema": "http://adaptivecards.io/schemas/adaptive-card.json"
+}

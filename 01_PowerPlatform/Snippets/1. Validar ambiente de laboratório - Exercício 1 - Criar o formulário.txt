@@ -1,0 +1,36 @@
+ITEM 7
+"De acordo com a Lei Geral de Proteção de Dados, nº 13.709, de 14 DE AGOSTO DE 2018, o titular de dados tem direito de ter acesso aos dados tratados por pessoas físicas e jurídicas, para fins comerciais. Para fazer valer os seus direitos precisamos saber se seus dados realmente constam em nossas bases. Assim sendo, preencha todos os campos obrigatórios desta solicitação. Dentro de até 48 horas retornaremos o contato através do meio escolhido."
+
+ITEM 8
+Nome Completo 
+
+ITEM 9
+Qual direito deseja exercer conforme a LGPD (Lei Geral de Proteção de Dados, nº  13.709/18)?
+
+Confirmação da existência de tratamento
+Acesso aos dados
+Correção de dados incompletos, inexatos ou desatualizados
+Anonimização, bloqueio ou eliminação de dados desnecessários
+Portabilidade dos dados
+Eliminação dos dados pessoais
+Entidades públicas e privadas com as quais o controlador compartilhou meus dados
+Informação sobre a possibilidade de não fornecer consentimento
+Revogação do consentimento
+
+ITEM 10
+Deseja ser contatado através de qual canal de comunicação?
+Telefone (ligação)
+Telefone (WhatsApp)
+E-mail
+
+ITEM 11
+Número de telefone
+Informe o número do telefone, incluindo o código de área, sem parênteses ou traços (exemplo: 119999999)
+
+ITEM 12
+Endereço de e-mail válido
+
+ITEM 13
+Observações
+Use esse espaço para registrar qualquer reclamação ou pedido adicional não contemplado neste formulário
+
